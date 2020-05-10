@@ -24,16 +24,6 @@
   font-family: sans-serif;
   font-size: 12px;
 }
-.owner-page {
-  display: table;
-  margin-top: 20%;
-  background-color: #f8f9fa;
-  width: 100%;
-  border: 1px solid #77f;
-  font-family: sans-serif;
-  font-size: 12px;
-  text-align: center;
-}
 .article-page {
   float: right;
   padding: 1%;
@@ -66,4 +56,17 @@ a {
 }
 a:hover {
   text-decoration: underline;
+}
+.owner-page {
+  display: inline-block;
+  margin-right: auto;
+  margin-left: 0;
+  width: 30%;
+}
+
+.social-networks-redes {
+  display: inline-block;
+  margin-right: 0;
+  margin-left: auto;
+  width: 30%;
 }
