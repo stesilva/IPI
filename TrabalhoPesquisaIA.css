@@ -57,6 +57,14 @@ a {
 a:hover {
   text-decoration: underline;
 }
+footer {
+  background-color: #8ae;
+  margin-top: 50px;
+  padding: 10px;
+  text-align: center;
+  font-family: "Roboto Condensed", Impact, Haettenschweiler, "Arial Narrow Bold",
+    sans-serif;
+}
 .owner-page {
   display: inline-block;
   margin-right: auto;
